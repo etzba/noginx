@@ -1,0 +1,1 @@
+console.log("etzba js script for service")
